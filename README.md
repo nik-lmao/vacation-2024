@@ -8,7 +8,7 @@ During the trip from Germany to Greece, I discovered six new countries: Bosnia a
 
 28.06.2024 - 03.07.2024: Traveling by car, staying in random apartments.
 03.07.2024 - 10.07.2024: Staying in a nice house in Greece.
-10.07.2024 - 13.07.2024: Driving home, staying in random apartments while listening to Christmas music.
+10.07.2024 - 13.07.2024: Driving home, staying in random apartments while listening to Christmas music. ❄️
 
 ## 🎬 | The Film
 
