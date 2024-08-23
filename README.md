@@ -12,6 +12,7 @@ During the trip from Germany to Greece, I discovered six new countries: Bosnia a
 
 ## 🎬 | The Film
 
+<<<<<<< HEAD
 Throughout the vacation, I filmed a few scenes with the intention of creating a short vacation film at home. The film will be structured to show a day near [Koroni](https://en.wikipedia.org/wiki/Koroni), a small town in Greece.
 
 
@@ -25,3 +26,8 @@ Throughout the vacation, I filmed a few scenes with the intention of creating a 
 If you have any questions you can contact me on Discord: @nikitafrfr
 
 If you came here from the Hackclub Slack, you can just contact me there :)
+=======
+Throughout the vacation, I filmed a few scenes with the intention of creating a short vacation film at home. The film is structured to show a day near [Koroni](https://en.wikipedia.org/wiki/Koroni), a small town in Greece.
+
+You can find it [here](https://www.youtube.com/watch?v=ZYHqZWJe-ig)
+>>>>>>> 8ad74768310f52f936212b8658ce23f22e168dc7
